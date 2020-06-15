@@ -4,7 +4,9 @@ module.exports = {
       siteTitleAlt: `Simple Blog - gatsby-theme-acmeblog`,
       siteHeadline: `Simple Blog - gatsby theme from tiagofsanchez`,
       // siteUrl: ``,
-      siteDescription: `A blogging theme with small aesthetics. Includes tags and categories support`,
+      siteDescription: `Yes, we could be a barista :)
+      We create content for the web - you know, that thing that lives on the cloud? Just kidding! This is a gatsby theme that you can use for share your cool work.
+      Hope you enjoy!`,
       siteLanguage: `en`,
       siteImage: `./images/logo.png`,
       author: `tiagofsanchez`,

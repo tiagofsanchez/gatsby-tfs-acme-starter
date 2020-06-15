@@ -1,7 +1,7 @@
 # gatsby-tfs-acme-starter
 
 A simple blog for AMCE (it could be a barista) with a main page, blog and about page. All with exception of the main page are `mdx`. 
-This starter is leveraging `gatsby-theme-acmeblog`, check the repo [here](https://github.com/tiagofsanchez/gatsby-themes/tree/master/themes/gatsby-theme-acmeblog)
+This starter is leveraging `gatsby-theme-acmeblog`, check the original repo [here](https://github.com/tiagofsanchez/gatsby-themes/tree/master/themes/gatsby-theme-acmeblog)
 
 [Link to the theme](https://github.com/tiagofsanchez/gatsby-themes/tree/master/themes/gatsby-theme-acmeblog) 
 [Link to the parent theme](https://github.com/tiagofsanchez/gatsby-themes/tree/master/themes/gatsby-theme-acmeblog-data)

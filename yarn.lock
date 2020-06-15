@@ -7240,10 +7240,10 @@ gatsby-theme-acmeblog-data@*:
     mkdirp "^1.0.4"
     prop-types "^15.7.2"
 
-gatsby-theme-acmeblog@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-acmeblog/-/gatsby-theme-acmeblog-1.0.0.tgz#6188a9d3fa1d9c0abf096605a6bf7a3f03ec56a5"
-  integrity sha512-hZICjW+i45632HIKx1Gp/YduieSJbtPHEJQgh6ApZFDBO7CAFXUwOI7Y4FVSDU5LIhaD0GIj7WYwbJtA8DGdUw==
+gatsby-theme-acmeblog@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-acmeblog/-/gatsby-theme-acmeblog-1.0.1.tgz#e62006441d5617198fbd0cdb20e166e94ad3b495"
+  integrity sha512-4IFFh1OcEevJwTdeGkoEqYC+d5Uebevtv4G3rEpQZMv7HL1sF9vo8qYaRVA8tjZEzRrJNu+R8lqbtCylxOSTYA==
   dependencies:
     "@emotion/core" "^10.0.28"
     "@emotion/styled" "^10.0.27"
