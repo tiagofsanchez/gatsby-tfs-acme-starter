@@ -4,7 +4,7 @@
   "main": "index.mdx",
   "license": "MIT",
   "dependencies": {
-    "gatsby": "^2.22.15",
+    "gatsby": "^4.25.7",
     "gatsby-theme-acmeblog": "^1.0.2",
     "react": "^16.4.0",
     "react-dom": "^16.4.0"
